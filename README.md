@@ -15,6 +15,5 @@ From Powershell running as standard user (Not Administrator):
 
  .\exportPublicFolder.ps1 -PublicFolderPath "\PF-HumanResources" -WhatIf
  
-# generates a preview of the public folder's folder structure and item counts
-
-# remove the -WhatIf switch to perform export to pst
+- generates a preview of the public folder's folder structure and item counts
+- remove the -WhatIf switch to perform export to pst
